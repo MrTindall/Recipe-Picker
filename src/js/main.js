@@ -1,4 +1,4 @@
-import { recipes } from "src/js/data/recipe.js";
+import { recipes } from "/src/js/data/recipe.js";
 
 $(function(){
  
