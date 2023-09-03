@@ -35,7 +35,7 @@ export const recipes = [
         </li>
         </ul>`,
         65,
-        "/src/images/pumpkinpie.jpg"
+        "src/images/pumpkinpie.jpg"
     ),
     new Recipe(
         22833,
@@ -69,7 +69,7 @@ export const recipes = [
         </ul>
         `,
         45,
-        "/src/images/tiramisu.jpg"
+        "src/images/tiramisu.jpg"
     ),
     new Recipe(
         40204,
@@ -102,7 +102,7 @@ export const recipes = [
         </li>
         </ul>`,
         30,
-        "/src/images/cookie.jpg"
+        "src/images/cookie.jpg"
     ),
     new Recipe(
         33351,
@@ -132,7 +132,7 @@ export const recipes = [
         </li>
         </ul>`,
         75,
-        "/src/images/lemoncurd.jpg"
+        "src/images/lemoncurd.jpg"
     ),
     new Recipe(
         71572,
@@ -168,7 +168,7 @@ export const recipes = [
         </li>
         </ul>`,
         30,
-        "/src/images/chocolatelava.jpg"
+        "src/images/chocolatelava.jpg"
     ),
     new Recipe(
         19078,
@@ -213,7 +213,7 @@ export const recipes = [
         </li>
         </ul>`,
         90,
-        "/src/images/bakedchicken.jpg"
+        "src/images/bakedchicken.jpg"
     ),
     new Recipe(
         17279,
@@ -243,7 +243,7 @@ export const recipes = [
         </li>
         </ul>`,
         85,
-        "/src/images/fishandchips.jpg"
+        "src/images/fishandchips.jpg"
     ),
     new Recipe(
         23362,
@@ -288,7 +288,7 @@ export const recipes = [
         </li>
         </ul>`,
         120,
-        "/src/images/casserole.jpg"
+        "src/images/casserole.jpg"
     ),
     new Recipe(
         66171,
@@ -330,7 +330,7 @@ export const recipes = [
         </li>
         </ul>`,
         175,
-        "/src/images/Lasagna.jpg"
+        "src/images/Lasagna.jpg"
     ),
     new Recipe(
         12690,
@@ -366,7 +366,7 @@ export const recipes = [
         </li>
         </ul>`,
         30,
-        "/src/images/quesadilla.jpg"
+        "src/images/quesadilla.jpg"
     ),
     new Recipe(
         22414,
@@ -399,7 +399,7 @@ export const recipes = [
         </li>
         </ul>`,
         45,
-        "/src/images/pizza.jpg"
+        "src/images/pizza.jpg"
     ),
     new Recipe(
         22828,
@@ -426,7 +426,7 @@ export const recipes = [
         </li>
         </ul>`,
         30,
-        "/src/images/steak.jpg"
+        "src/images/steak.jpg"
     ),
     new Recipe(
         49361,
@@ -459,7 +459,7 @@ export const recipes = [
         </li>
         </ul>`,
         10,
-        "/src/images/charcuterie.jpg"
+        "src/images/charcuterie.jpg"
     ),
     new Recipe(
         18911,
@@ -489,7 +489,7 @@ export const recipes = [
         </li>
         </ul>`,
         10,
-        "/src/images/gardensalad.jpg"
+        "src/images/gardensalad.jpg"
     ),
     new Recipe(
         72621,
@@ -513,7 +513,7 @@ export const recipes = [
         </li>
         </ul>`,
         30,
-        "/src/images/tomatosoup.jpg"
+        "src/images/tomatosoup.jpg"
     ),
     new Recipe(
         33916,
@@ -540,7 +540,7 @@ export const recipes = [
         </li>
         </ul>`,
         35,
-        "/src/images/bacon.jpg"
+        "src/images/bacon.jpg"
     ),
     new Recipe(
         18407,
@@ -564,7 +564,7 @@ export const recipes = [
         </li>
         </ul>`,
         10,
-        "/src/images/parfait.jpg"
+        "src/images/parfait.jpg"
     ),
     new Recipe(
         17756,
@@ -591,7 +591,7 @@ export const recipes = [
         </li>
         </ul>`,
         120,
-        "/src/images/dinnerrolls.jpg"
+        "src/images/dinnerrolls.jpg"
     ),
     new Recipe(
         13999,
@@ -618,7 +618,7 @@ export const recipes = [
         </li>
         </ul>`,
         30,
-        "/src/images/sweetpotatofries.jpg"
+        "src/images/sweetpotatofries.jpg"
     ),
     new Recipe(
         46465,
@@ -648,7 +648,7 @@ export const recipes = [
         </li>
         </ul>`,
         35,
-        "/src/images/pretzel.jpg"
+        "src/images/pretzel.jpg"
     ),
 ]
 
